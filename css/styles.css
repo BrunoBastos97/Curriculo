@@ -1,0 +1,112 @@
+
+body {
+    background-image: url(../print/fundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative; 
+}
+
+.imgFundoCartao{
+    background: linear-gradient( to right, rgba(19, 11, 70, 1), rgba(162, 47, 125, .9));
+    background-repeat: no-repeat;
+    position: absolute; 
+    width: 80%;
+    height: 400px; 
+    margin: 10%;
+    box-shadow: 10px 10px 5px rgba(255, 100, 234, .1);
+}
+
+.imgPerfil{
+    background-image: url(../print/imgPerfil.jpg);
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;  
+    position: absolute; 
+    background-size: 100%;
+    border: solid rgba(19, 11, 70, .8) 8px;
+    margin: 2%;
+    left: 1%;
+    top: 1%;
+    width: 26%;
+    height: 63%;
+    
+
+}
+
+
+.fundoApresentacao
+{
+    background-color:  rgba(19, 11, 70, .5);
+    border-radius: 2%;  
+}
+
+.apresentacao{
+    text-align: start;
+    font-size: 200%;
+    margin-left: 35%;
+    margin-top: 2%;
+    width: 61%;
+    height: 70%;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.apresentacao li
+{
+    color: rgb(255, 255, 255);
+}
+.apresentacao li:hover
+{
+    color: black;
+    text-decoration: underline; 
+    background:rgb(161, 9, 141); 
+    
+    
+}
+
+.apresentacao li a
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+.apresentacao li a:hover
+{
+    color: black;
+
+}
+
+.apresentacao h3
+{
+    top: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: white;
+    background: linear-gradient( to right, rgba(19, 11, 70, .5), rgba(162, 47, 125, .2));
+}
+.btn
+{
+    background-color:rgba(19, 11, 70, .9);
+    width: 35%;
+    height: 15%;
+    margin-top: 3%;
+    border: solid rgba(55, 9, 70, 0.2) 4px;
+    
+}
+
+.btn:hover
+{
+    background-color:rgb(161, 9, 141);
+    font-size:50%; 
+    size: 40%;
+}
+
+.btn a
+{
+    color: white;
+    text-decoration: none;
+}
