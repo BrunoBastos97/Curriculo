@@ -22,7 +22,7 @@ Esta aplicação foi feita com o intuito de servi como apresentação�
 ### 👨‍🏫 Layout da Tela
 
 <div align="center">
-    <img src="../print/Layout.gif"
+    <img src="print/Layout.gif"
     alt="Layout" height="425">    
 </div>
 
