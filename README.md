@@ -15,9 +15,9 @@ Esta aplicação foi feita com o intuito de servi como apresentação�
 
 ### 🤔 Como Abrir a Página
 
-- Faça o clone da pasta [API_Escola](https://github.com/BrunoBastos97/API_Escola) no github.
+- Faça o clone da pasta [Curriculo](https://github.com/BrunoBastos97/Curriculo) no github.
 - Para Utilizar a API, é preciso ter um server, para isso obitenha o [WampServer](https://www.wampserver.com/en/) ou um outro da sua preferencia.
-- Se utilizado o [WampServer](https://www.wampserver.com/en/), faça o clone da pasta [API_Escola](https://github.com/BrunoBastos97/API_Escola) no github, na pasta www no WampServer.
+- Se utilizado o [WampServer](https://www.wampserver.com/en/), faça o clone da pasta [Curriculo](https://github.com/BrunoBastos97/Curriculo) no github, na pasta www no WampServer.
 
 ### 👨‍🏫 Layout da Tela
 
